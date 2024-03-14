@@ -1,1 +1,1 @@
-# CLASE-14-DE-MARZO-1-
+# Reconocimiento Óptico de Caracteres
